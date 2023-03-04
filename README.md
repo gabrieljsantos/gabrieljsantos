@@ -11,7 +11,6 @@
   <br/>
   <img align="center" alt="CorelDRAW" src="https://i.imgur.com/8VHvlJ1.jpg"/>
   <img align="center" alt="Sketchup" src="https://i.imgur.com/m4lFg8k.jpg"/>
-  
 </div>
 
 
