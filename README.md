@@ -27,8 +27,11 @@
 - Instagram
     >> [Perfil principal ](https://www.instagram.com/gabriel_j.santos_) <br/>
     >> [Science Aqui](https://www.instagram.com/science_aqui) <br/>
-    >> [Gabriel Arte_Personalizados](https://www.instagram.com/gabriel_arte_personalizados) <br/>
+    >> [Gabriel Arte Personalizados](https://www.instagram.com/gabriel_arte_personalizados) <br/>
     >> [Random it's photos](https://www.instagram.com/random_its_photos) <br/>
+- Youtube
+    >> [Perfil Unico]([https://www.instagram.com/gabriel_j.santos_](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/)) <br/>
 - Arquivos de Projetos Publicos:
+    >> [PUBLIC PROJECTS]([https://www.instagram.com/gabriel_j.santos_]()) <br/>
     
-    <a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+    <!--<a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>-->
