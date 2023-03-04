@@ -2,8 +2,7 @@
 - 🌱 Um programador autodidata
 - ⚛️ Graduando de licenciatura em física pela Universidade Federal de Segipe.
 - Minhas habilidades envolvem: 
-
-
+<html>
   <head>
     <style>
       img {
@@ -25,7 +24,7 @@
       <img align="center" alt="Sketchup" src="https://i.imgur.com/m4lFg8k.jpg"/>
     </div>
   </body>
-
+<html>
 
 - Minhas Redes sociais: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/science_aqui?utm_medium=copy_link)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_j.santos_?utm_medium=copy_link)
