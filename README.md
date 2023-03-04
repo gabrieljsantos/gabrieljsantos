@@ -13,11 +13,11 @@
     </div>
     <div style="display: inline-block">
       <img align="center" alt="Modellus" src="https://i.imgur.com/DfCFNu1.jpg"/>
-      <img align="center" alt="Scratch" src="https://i.imgur.com/JdGCSsV.jpg"/>
+      <img align="center" alt="Scratch" src=https://i.imgur.com/u0bQ2W9.jpg"/>
     </div>
     <div style="display: inline-block">
-      <img align="center" alt="CorelDRAW" src="https://i.imgur.com/8VHvlJ1.jpg"/>
-      <img align="center" alt="Sketchup" src="https://i.imgur.com/m4lFg8k.jpg"/>
+      <img align="center" alt="CorelDRAW" src="https://i.imgur.com/chtbPpk.jpg"/>
+      <img align="center" alt="Sketchup" src="https://i.imgur.com/j91FVRE.jpg"/>
     </div>
 
 <li> Minhas Redes sociais:
