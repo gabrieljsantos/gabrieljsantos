@@ -1,5 +1,5 @@
 ## Olá, eu sou Gabriel 👋
-- 🌱 Um programador autodidata.
+- 🌱 Programador autodidata.
 - ⚛️ Graduando em licenciatura em física pela Universidade Federal de Sergipe.
 - 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL).
 - ✒️ Designer gráfico e de personalizados.
@@ -25,12 +25,13 @@
 <!--<a href="https://www.instagram.com/gabriel_j.santos_/" target="_blank"><img src="https://i.imgur.com/tXSoThF.png" alt="Instagram" width="40" height="40"/></a> -->
 ## Minhas Redes sociais e Links:
 - Instagram
-    [@gabriel_j.santos_](https://www.instagram.com/gabriel_j.santos_)
-    [@science_aqui](https://www.instagram.com/science_aqui)
+    >> [Perfil principal ](https://www.instagram.com/gabriel_j.santos_) <br/>
+    >> [Science Aqui](https://www.instagram.com/science_aqui) <br/>
+    >> [Gabriel Arte_Personalizados](https://www.instagram.com/gabriel_arte_personalizados) <br/>
+    >> [Random it's photos](https://www.instagram.com/random_its_photos) <br/>
 
 
 <a href="https://instagram.com/science_aqui?utm_medium=copy_link"><img align="center" alt="Instagram1" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-<a href="https://instagram.com/gabriel_j.santos_?utm_medium=copy_link"><img align="center" alt="Instagram2" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<p>Arquivos de Projetos Publicos:</p>
-<a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-- Ferramentas para o ensino:
+- Arquivos de Projetos Publicos:
+
+    <a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
