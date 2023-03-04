@@ -8,8 +8,10 @@
   <br/>
   <img align="center" alt="Modellus" src="https://i.imgur.com/PT2Ngwu.jpg"/>
   <img align="center" alt="Scratch" src="https://i.imgur.com/JdGCSsV.jpg"/>
+  <br/>
+  <img align="center" alt="CorelDRAW" src="https://i.imgur.com/8VHvlJ1.jpg"/>
+  <img align="center" alt="Sketchup" src="https://i.imgur.com/m4lFg8k.jpg"/>
   
-
 </div>
 
 
