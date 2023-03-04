@@ -7,6 +7,8 @@
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <br/>
   <img align="center" alt="Modellus" src="https://i.imgur.com/PT2Ngwu.jpg"/>
+  <img align="center" alt="Scratch" src="https://i.imgur.com/JdGCSsV.jpg"/>
+  
 
 </div>
 
