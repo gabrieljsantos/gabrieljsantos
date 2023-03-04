@@ -1,7 +1,8 @@
 ### Olá, eu sou Gabriel 👋
 - 🌱 Eu sou um estudante de programação e faço curso de licicenciatura em física pela UFS.
-- Minha habilidades envolvem:
+
 <div style="display: inline_block"><br/>
+  - Minha habilidades envolvem:
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"/>
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
