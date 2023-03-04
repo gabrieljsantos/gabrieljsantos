@@ -9,8 +9,14 @@
   <br/>
 </div>
 
+
+- Minhas Redes sociais: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/science_aqui?utm_medium=copy_link)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_j.santos_?utm_medium=copy_link)
+
+- Arquivos de Projetos Publicos: 
 [![PUBLIC PROJECTS](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/)
+
+
 
 <!--
 **gabrieljsantos/gabrieljsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
