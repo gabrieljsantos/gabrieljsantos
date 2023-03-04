@@ -32,6 +32,6 @@
 - Youtube
     >> [Perfil Unico](https://www.youtube.com/channel/UCOcZ8gG-m8HPl694-vbe5nQ) <br/>
 - Arquivos de Projetos Publicos:
-    >> [Psta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/) <br/>
+    >> [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/) <br/>
     
     <!--<a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>-->
