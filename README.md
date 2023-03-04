@@ -1,6 +1,9 @@
 ### Olá, eu sou Gabriel 👋
--🌱 Um programador autodidata. <br/>
--⚛️ Graduando de licenciatura em física pela Universidade Federal de Sergipe. <br/>
+- 🌱 Um programador autodidata. <br/>
+- ⚛️ Graduando de licenciatura em física pela Universidade Federal de Sergipe. <br/>
+- 📷 Fotografo por hobby
+- ✒️ Designer gráfico
+- 👨🏻‍🏫 Professor de Maker no colegio CABL.
       <li>Minhas habilidades envolvem:</li>
     </ul>
     <div style="display: inline-block">
