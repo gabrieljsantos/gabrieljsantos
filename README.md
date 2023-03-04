@@ -29,9 +29,6 @@
     >> [Science Aqui](https://www.instagram.com/science_aqui) <br/>
     >> [Gabriel Arte_Personalizados](https://www.instagram.com/gabriel_arte_personalizados) <br/>
     >> [Random it's photos](https://www.instagram.com/random_its_photos) <br/>
-
-
-<a href="https://instagram.com/science_aqui?utm_medium=copy_link"><img align="center" alt="Instagram1" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
 - Arquivos de Projetos Publicos:
-
+    
     <a href="https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/"><img align="center" alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
