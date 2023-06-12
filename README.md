@@ -23,6 +23,9 @@
         <!--<img align="center" alt="Sketchup" src="https://i.imgur.com/j91FVRE.jpg"/>-->
     </div>
 <!--<a href="https://www.instagram.com/gabriel_j.santos_/" target="_blank"><img src="https://i.imgur.com/tXSoThF.png" alt="Instagram" width="40" height="40"/></a> -->
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gabrieljsantos/)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gabrieljsantos/)
 ## Minhas Redes sociais e Links:
 - Instagram
     >> [Perfil principal ](https://www.instagram.com/gabriel_j.santos_) <br/>
