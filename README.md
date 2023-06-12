@@ -36,6 +36,23 @@
     >> [Perfil Unico](https://www.youtube.com/channel/UCOcZ8gG-m8HPl694-vbe5nQ) <br/>
 - Arquivos de Projetos Publicos:
     >> [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/) <br/>
+<details>
+<p align="center">
+  <a href="https://github.com/gabrieljsantos">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=transparent" />
+  </a>
+  <a href="https://github.com/gabrieljsantos">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieljsantos&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/gabrieljsantos">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieljsantos&theme=transparent" />
+  </a>
+  <a href="https://github.com/gabrieljsantos">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
 <p align="center">
   <a href="https://github.com/gabrieljsantos/">
     <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&color=blue&style=flat)" />
