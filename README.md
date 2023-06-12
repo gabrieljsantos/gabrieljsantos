@@ -43,7 +43,7 @@
 - Arquivos de Projetos Públicos:
     - [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/gabrieljsantos">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=transparent" />
@@ -55,7 +55,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieljsantos&theme=transparent" />
   </a>
 </p>
-</details>
 
 <a href="https://github.com/gabrieljsantos/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&style=for-the-badge">
