@@ -10,19 +10,25 @@
 
 ### Linguagens de programação e plataformas:
 
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"/>
-<img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<div style="display: inline-block">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"/>
+    <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</div>
 
 ### Ferramentas para o ensino:
 
-<img align="center" alt="Modellus" src="https://i.imgur.com/DfCFNu1.jpg"/>
-<img align="center" alt="Scratch" src="https://i.imgur.com/u0bQ2W9.jpg"/>
+<div style="display: inline-block">
+    <img align="center" alt="Modellus" src="https://i.imgur.com/DfCFNu1.jpg"/>
+    <img align="center" alt="Scratch" src="https://i.imgur.com/u0bQ2W9.jpg"/>
+</div>
 
 ### Softwares:
 
-<img align="center" alt="CorelDRAW" src="https://i.imgur.com/chtbPpk.jpg"/>
-<!--<img align="center" alt="Sketchup" src="https://i.imgur.com/j91FVRE.jpg"/>-->
+<div style="display: inline-block">
+    <img align="center" alt="CorelDRAW" src="https://i.imgur.com/chtbPpk.jpg"/>
+    <!--<img align="center" alt="Sketchup" src="https://i.imgur.com/j91FVRE.jpg"/>-->
+</div>
 
 ### Sistema Operacional:
 
@@ -43,7 +49,7 @@
 - Arquivos de Projetos Públicos:
     - [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/)
 
-
+<details>
 <p align="center">
   <a href="https://github.com/gabrieljsantos">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=transparent" />
@@ -55,6 +61,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieljsantos&theme=transparent" />
   </a>
 </p>
+</details>
 
 <a href="https://github.com/gabrieljsantos/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&style=for-the-badge">
@@ -62,10 +69,3 @@
 
 [GitHub Profile Views Counter]: https://github.com/gabrieljsantos/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
-
-<p align="center">
-  <a href="https://github.com/gabrieljsantos/">
-    <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&color=blue&style=flat)" />
-  </a>
-</p>
