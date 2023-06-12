@@ -37,7 +37,7 @@
 - Arquivos de Projetos Publicos:
     >> [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/) <br/>
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  <a href="https://github.com/gabrieljsantos/">
+    <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&color=blue&style=flat)" />
   </a>
 </p>
