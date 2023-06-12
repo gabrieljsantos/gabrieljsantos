@@ -55,6 +55,15 @@
 </p>
 </details>
 
+<a href="https://github.com/gabrieljsantos/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
+
+[GitHub Profile Views Counter]: https://github.com/gabrieljsantos/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
+
 <p align="center">
   <a href="https://github.com/gabrieljsantos/">
     <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&color=blue&style=flat)" />
