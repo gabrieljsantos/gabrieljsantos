@@ -2,10 +2,19 @@
 
 - 🌱 Programador autodidata, apaixonado por desafios e novas tecnologias.
 - ⚛️ Graduando em licenciatura em física pela Universidade Federal de Sergipe.
-- 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL).
-- ✒️ Designer gráfico e de personalizados.
-- 📷 Fotógrafo por hobby.
+- 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL), inspirando alunos a explorar o mundo da criação.
+- ✒️ Designer gráfico e de personalizados, transformando ideias em projetos visualmente atraentes.
+- 📷 Fotógrafo por hobby, capturando momentos especiais através das lentes da minha câmera.
 
+## Projetos e Interesses Atuais:
+
+- 🖥️ Aprendendo e aprimorando minhas habilidades em CAD (Computer-Aided Design).
+- 🌀 Explorando o Blender para modelagem 3D e animação.
+- 🖨️ Utilizando impressora FDM/3D para transformar conceitos digitais em objetos tangíveis.
+- 🛠️ Trabalhando com o FreeCAD para projetos de design paramétrico.
+
+## Conheça meu perfil no [LinkedIn](https://www.linkedin.com/in/gabriel-j-santos/)
+---
 ## Minhas habilidades envolvem:
 
 ### Linguagens de programação e plataformas:
