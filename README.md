@@ -1,10 +1,59 @@
-## Olá, eu sou Gabriel 👋
+# Olá, eu sou Gabriel 👋
 
-- 🌱 Programador autodidata.
+- 🌱 Programador autodidata, apaixonado por desafios e novas tecnologias.
 - ⚛️ Graduando em licenciatura em física pela Universidade Federal de Sergipe.
-- 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL).
-- ✒️ Designer gráfico e de personalizados.
-- 📷 Fotógrafo por hobby.
+- 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL), inspirando alunos a explorar o mundo da criação.
+- ✒️ Designer gráfico e de personalizados, transformando ideias em projetos visualmente atraentes.
+- 📷 Fotógrafo por hobby, capturando momentos especiais através das lentes da minha câmera.
+
+## Projetos e Interesses Atuais:
+
+- 🖥️ Aprendendo e aprimorando minhas habilidades em CAD (Computer-Aided Design).
+- 🌀 Explorando o Blender para modelagem 3D e animação.
+- 🖨️ Utilizando impressora FDM/3D para transformar conceitos digitais em objetos tangíveis.
+- 🛠️ Trabalhando com o FreeCAD para projetos de design paramétrico.
+
+## Conheça meu perfil no [LinkedIn](https://www.linkedin.com/in/gabriel-j-santos/)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bola em Movimento</title>
+<style>
+    .container {
+        position: relative;
+        width: 300px;
+        height: 150px;
+        overflow: hidden;
+    }
+
+    .bola {
+        width: 50px;
+        height: 50px;
+        background-color: #007bff;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        animation: mover 2s linear infinite;
+    }
+
+    @keyframes mover {
+        0% { left: 0; }
+        100% { left: calc(100% - 50px); }
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="bola"></div>
+    </div>
+</body>
+</html>
+
+
+---
 
 ## Minhas habilidades envolvem:
 
@@ -68,4 +117,5 @@
 </a>
 
 [GitHub Profile Views Counter]: https://github.com/gabrieljsantos/github-profile-views-counter
+
 
