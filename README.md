@@ -6,19 +6,16 @@
 * ✒️ Designer 2D/3D: modelagem digital, impressão 3D e preparação de arquivos para corte a laser.  
 * 🛰️ Física: compreensão teórica e aplicação prática na análise e previsão de fenômenos físicos.  
 * 💡 Eletrônica Básica: conhecimento de circuitos, componentes e instrumentação, aplicado a prototipagem e projetos maker.
+<p align="center">
+Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-santos/">LinkedIn</a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=gabrieljsantos&theme=github" height="200" />
 </p>
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieljsantos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20)
-
-![Atividade no GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=gabrieljsantos&theme=github)
-
-![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=github)
 
 ## Meus projetos e trabalhos envolvem:
 * **Programação:** modelagens computacionais, matemática e física, GUI, gráficos, web e comunicação; análise de dados básica e desenvolvimento de jogos simples.  
@@ -29,17 +26,11 @@
 
 
 
-## Conheça meu perfil no [LinkedIn](https://www.linkedin.com/in/gabriel-j-santos/)
+
+
 ---
-
-
-<a href="https://github.com/gabrieljsantos/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&style=for-the-badge">
-</a>
-
-[GitHub Profile Views Counter]: https://github.com/gabrieljsantos/github-profile-views-counter
----
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=github" />
+</p>
 
 
