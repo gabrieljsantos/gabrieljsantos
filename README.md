@@ -11,8 +11,8 @@ Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20" height="200" />
-  <img src="https://streak-stats.demolab.com/?user=gabrieljsantos&theme=github" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20&theme=transparent" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=gabrieljsantos&theme=transparent" height="200" />
 </p>
 
 
@@ -23,14 +23,9 @@ Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-
 * **Eletrônica e prototipagem:** Arduino, ESP32 e circuitos simples.  
 * **Design 2D/3D e fabricação digital:** SketchUp, CorelDRAW, CNC laser, impressora 3D/FDM; estudando Blender, FreeCAD, Fusion360 e similares.
 
-
-
-
-
-
 ---
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=transparent" />
 </p>
 
 
