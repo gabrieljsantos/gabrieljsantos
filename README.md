@@ -1,81 +1,45 @@
 # Olá, eu sou Gabriel 👋
 
-- 🌱 Programador autodidata, apaixonado por desafios e novas tecnologias.
-- ⚛️ Graduando em licenciatura em física pela Universidade Federal de Sergipe.
-- 👨🏻‍🏫 Professor de Maker no Colégio Antônio Barreto de Lima (CABL), inspirando alunos a explorar o mundo da criação.
-- ✒️ Designer gráfico e de personalizados, transformando ideias em projetos visualmente atraentes.
-- 📷 Fotógrafo por hobby, capturando momentos especiais através das lentes da minha câmera.
+* 🌱 Programador, com experiência autodidata em diversas tecnologias e desenvolvimento de projetos.
+* ⚛️ Graduando em Sistemas de Informação pela Universidade Federal de Sergipe.  
+* 👨🏻‍💻 Maker: criação de projetos de programação, robótica e prototipagem.  
+* ✒️ Designer 2D/3D: modelagem digital, impressão 3D e preparação de arquivos para corte a laser.  
+* 🛰️ Física: compreensão teórica e aplicação prática na análise e previsão de fenômenos físicos.  
+* 💡 Eletrônica Básica: conhecimento de circuitos, componentes e instrumentação, aplicado a prototipagem e projetos maker.
 
-## Projetos e Interesses Atuais:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20" />
+</p>
 
-- 🖥️ Aprendendo e aprimorando minhas habilidades em CAD (Computer-Aided Design).
-- 🌀 Explorando o Blender para modelagem 3D e animação.
-- 🖨️ Utilizando impressora FDM/3D para transformar conceitos digitais em objetos tangíveis.
-- 🛠️ Trabalhando com o FreeCAD para projetos de design paramétrico.
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrieljsantos&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20)
+
+![Atividade no GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=gabrieljsantos&theme=github)
+
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=github)
+
+## Meus projetos e trabalhos envolvem:
+* **Programação:** modelagens computacionais, matemática e física, GUI, gráficos, web e comunicação; análise de dados básica e desenvolvimento de jogos simples.  
+* **Programação Alternativa:** Scratch e Modellus.  
+* **Eletrônica e prototipagem:** Arduino, ESP32 e circuitos simples.  
+* **Design 2D/3D e fabricação digital:** SketchUp, CorelDRAW, CNC laser, impressora 3D/FDM; estudando Blender, FreeCAD, Fusion360 e similares.
+
+
+
 
 ## Conheça meu perfil no [LinkedIn](https://www.linkedin.com/in/gabriel-j-santos/)
 ---
-## Minhas habilidades envolvem:
 
-### Linguagens de programação e plataformas:
-
-<div style="display: inline-block">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=red"/>
-    <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</div>
-
-### Ferramentas para o ensino:
-
-<div style="display: inline-block">
-    <img align="center" alt="Modellus" src="https://i.imgur.com/DfCFNu1.jpg"/>
-    <img align="center" alt="Scratch" src="https://i.imgur.com/u0bQ2W9.jpg"/>
-</div>
-
-### Softwares:
-
-<div style="display: inline-block">
-    <img align="center" alt="CorelDRAW" src="https://i.imgur.com/chtbPpk.jpg"/>
-    <!--<img align="center" alt="Sketchup" src="https://i.imgur.com/j91FVRE.jpg"/>-->
-</div>
-
-### Sistema Operacional:
-
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gabrieljsantos/)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gabrieljsantos/)
-
-## Minhas Redes Sociais e Links:
-
-- Instagram
-    - [Perfil principal](https://www.instagram.com/gabriel_j.santos_)
-    - [Science Aqui](https://www.instagram.com/science_aqui)
-    - [Gabriel Arte Personalizados](https://www.instagram.com/gabriel_arte_personalizados)
-    - [Random it's photos](https://www.instagram.com/random_its_photos)
-
-- Youtube
-    - [Perfil Único](https://www.youtube.com/channel/UCOcZ8gG-m8HPl694-vbe5nQ)
-
-- Arquivos de Projetos Públicos:
-    - [Pasta compartilhada no Google Drive](https://drive.google.com/drive/folders/1bxT3k2MdrBuJUGibxx55kll2b39F4q_J?usp=sharing/)
-
-<details>
-<p align="center">
-  <a href="https://github.com/gabrieljsantos">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieljsantos&theme=transparent" />
-  </a>
-  <a href="https://github.com/gabrieljsantos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieljsantos&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/gabrieljsantos">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieljsantos&theme=transparent" />
-  </a>
-</p>
-</details>
 
 <a href="https://github.com/gabrieljsantos/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gabrieljsantos&style=for-the-badge">
 </a>
 
 [GitHub Profile Views Counter]: https://github.com/gabrieljsantos/github-profile-views-counter
+---
+
+
 
 
