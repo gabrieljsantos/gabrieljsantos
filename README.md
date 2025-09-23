@@ -11,10 +11,8 @@ Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20&theme=transparent" height="200"style="margin-right: 20px;" />
-  <img src="https://streak-stats.demolab.com/?user=gabrieljsantos&theme=transparent" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20&theme=transparent&card_width=500" height="200" style="margin-right: 20px;" />
 </p>
-
 
 
 ## Meus projetos e trabalhos envolvem:
