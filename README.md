@@ -9,13 +9,14 @@
 <p align="center">
 Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-santos/">LinkedIn</a>
 </p>
-veja, colocoque o segndo painel, justamente por causa do primeiro, ele é curto em largural, fica um elemento solto na tela, mas antes de depater soluções, gostaria de saber se cosigo alargalar
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsantos&layout=compact&langs_count=20&theme=transparent" height="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieljsantos&theme=transparent" height="200"/>
 </p>
+
 ## Meus projetos e trabalhos envolvem:
 * **Programação:** modelagens computacionais, matemática e física, GUI, gráficos, web e comunicação; análise de dados básica e desenvolvimento de jogos simples.  
 * **Programação Alternativa:** Scratch e Modellus.  
