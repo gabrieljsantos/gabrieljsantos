@@ -21,7 +21,7 @@ Saiba mais sobre meu trabalho no <a href="https://www.linkedin.com/in/gabriel-j-
 * **Programação:** modelagens computacionais, matemática e física, GUI, gráficos, web e comunicação; análise de dados básica e desenvolvimento de jogos simples.  
 * **Programação Alternativa:** Scratch e Modellus.  
 * **Eletrônica e prototipagem:** Arduino, ESP32 e circuitos simples.  
-* **Design 2D/3D e fabricação digital:** SketchUp, CorelDRAW, CNC laser, impressora 3D/FDM; estudando Blender, FreeCAD, Fusion360 e similares.
+* **Design 2D/3D e fabricação digital:** SketchUp, CorelDRAW, CNC laser, impressora 3D/FDM.
 
 ---
 <p align="center">
